@@ -1,0 +1,34 @@
+1. What can adder do?
+   1. _unary operations_
+   2. binary operations and conditionals
+   3. function calls
+   4. tuple operations
+   5. garbage collection
+
+2. What can boa do?
+   1. unary operations
+   2. _binary operations and conditionals_
+   3. function calls
+   4. tuple operations
+   5. garbage collection
+
+3. What can diamondback do?
+   1. unary operations
+   2. binary operations and conditionals
+   3. _function calls_
+   4. tuple operations
+   5. garbage collection
+
+4. What can eggeater do?
+   1. unary operations
+   2. binary operations and conditionals
+   3. function calls
+   4. _tuple operations_
+   5. garbage collection
+
+5. What can fox do?
+   1. unary operations
+   2. binary operations and conditionals
+   3. function calls
+   4. tuple operations
+   5. _garbage collection_
